@@ -1,0 +1,3 @@
+.env/
+posting_app/__pycache__/
+posting_app/migrations/
