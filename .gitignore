@@ -3,3 +3,4 @@ posting_app/__pycache__/
 posting_app/migrations/
 blog/__pycache__/
 db.sqlite3
+sql.db
